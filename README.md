@@ -62,7 +62,7 @@ This is a sample of my page
 
 The  project was built and is maintained by:
 
-- [Alex wambua ](https://github.com/alexmuindu)
+- (https://github.com/alexmuindu)
 
 ## License
 
