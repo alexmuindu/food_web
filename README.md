@@ -33,7 +33,7 @@ This section will enable the user to set and run this application on your  machi
 - Clone the repository to your local machine.On your computer open `git bash`  for the people only using **windows**** as their operating system, while people using *linux or mac* os open your `terminal`
 
 ```
-git clone https://github.com/alexmuindu/Street_food
+git clone https://github.com/alexmuindu/Food_web
 ```
 - Change into the working directory
 
