@@ -22,7 +22,7 @@ For one to run this application you have to require the following:
 
 - Web broswer like chrome ,firefox
 
-- 4GB ram
+- 16GB ram
 
 
 
